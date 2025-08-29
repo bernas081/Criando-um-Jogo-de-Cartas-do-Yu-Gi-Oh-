@@ -39,28 +39,6 @@ Abra o arquivo index.html no seu navegador de preferência.
 
 Pronto! O jogo será carregado e você poderá começar a jogar.
 
-📁 Estrutura do Projeto
-A estrutura de pastas e arquivos do projeto é organizada da seguinte forma:
-
-├── src/
-│   ├── assets/
-│   │   ├── audios/
-│   │   ├── cursor/
-│   │   ├── favicon/
-│   │   ├── icons/
-│   │   │   └── (imagens das cartas e ícones)
-│   │   ├── rpg/
-│   │   └── video/
-│   ├── scripts/
-│   │   └── engine.js  (Lógica principal do jogo)
-│   └── styles/
-│       ├── buttons.css
-│       ├── containers_and_frames.css
-│       ├── main.css
-│       └── reset.css
-├── index.html       (Página principal do jogo)
-└── readme.md        (Este arquivo)
-
 🤝 Contribuições
 Sinta-se à vontade para contribuir com melhorias ou correções. Se encontrar um bug ou tiver sugestões, por favor, abra uma issue ou envie um pull request.
 
